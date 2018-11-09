@@ -8,13 +8,15 @@ authors = [""]
 
 # Publication type.
 # Legend:
-# 0 = Uncategorized
-# 1 = Conference paper
-# 2 = Journal article
-# 3 = Manuscript
-# 4 = Report
-# 5 = Book
-# 6 = Book section
+# -1: Any
+#  0: Uncategorized
+#  1: Peer-Reviewed Journal Publication
+#  2: Peer-Reviewed Conference Publication
+#  3: Preprint
+#  4: Technical report
+#  5: Book
+#  6: Book chapter
+#  7: Invited Paper
 publication_types = ["0"]
 
 # Publication name and optional abbreviated version.
